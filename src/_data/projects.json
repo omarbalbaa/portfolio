@@ -1,0 +1,64 @@
+[
+  {
+    "title": "Password Generator",
+    "description": "Password generator tool",
+    "image": "/projectImages/01.png",
+    "image2": "/projectImages/10.png",
+    "image3": "/projectImages/03.png",
+    "technologies": ["JavaScript", "HTML", "CSS"],
+    "body": "This is a tool to generate secure passwords built with vanilla JavaScript. The user can select the length of the password and choose from a variety of character types to include. The password is then generated and the user can copy the password to their clipboard.\nThis tool is fully responsive and works on all devices and built with potential to be integrated in register pages of other projects.",
+    "github": "https://github.com/omarbalbaa/Password-generator",
+    "deployed": "https://omarbalbaa.github.io/Password-generator/",
+    "bgcolor": "var(--hl2-color)",
+    "id": "1"
+  },
+  {
+    "title": "MovieLand",
+    "description": "Movie library website",
+    "image": "/projectImages/07.png",
+    "image2": "/projectImages/09 (1).png",
+    "image3": "/projectImages/09.png",
+    "technologies": ["React", "CSS"],
+    "body": "A front-end for a movie library website that allows users to browse movies. The website is fully responsive and built with React and styled using CSS. The website fetches data from an API and displays it in a user-friendly way.",
+    "github": "https://github.com/omarbalbaa/movies-demo",
+    "deployed": "https://omarbalbaa.github.io/movies-demo/",
+    "bgcolor": "#f85781",
+    "id": "4"
+  },
+  {
+    "title": "ECommerce",
+    "description": "Online Store",
+    "image": "/projectImages/05.png",
+    "image2": "/projectImages/11.png",
+    "image3": "/projectImages/06.png",
+    "body": "A full-stack project for an Ecommerce website that allows user to browse products, add them to cart, and recieve a confirmation email then checkout. The website is fully responsive. The frontend is built with Next.JS, TailwindCSS, and HyperUI. \nThe backend is built with Strapi which facilitates the adminstration process by offering a dashboard to manage products, orders, and users. It has cloudinary integrated for optimizing images. I used Resend to handle sending emails to customers.",
+    "technologies": ["Next.JS", "Strapi", "Tailwind CSS", "HyperUI"],
+    "github": "https://github.com/omarbalbaa/ecommerce",
+    "bgcolor": "var(--hl-color)",
+    "id": "1"
+  },
+  {
+    "title": "Flappy Bird",
+    "description": "Flappy Bird game",
+    "image": "/projectImages/12.png",
+    "image2": "/projectImages/13.png",
+    "image3": "/projectImages/14.png",
+    "body": "P1 is a web application designed to be a hub for Formula 1 fans. It brings together news, standings, and an interactive card game in one platform.\nThe app features a responsive layout with animated, polished visuals to provide an immersive user experience. The news section stays up-to-date on the latest happenings in the F1 world.\nThe centerpiece is a card game that puts users' F1 knowledge to the test in a competitive, engaging format. Game mechanics reward expertise in drivers, teams, and racing trivia.\nBuilt using modern web development tools, this project shows skills in:\n➤ Creating visually appealing, animated interfaces\n➤ Integrating real-time data feeds and news\n➤ Developing interactive game mechanics with competitive elements\n➤ Providing an all-in-one web app for a niche audience\nOverall, P1 aims to establish an exciting online space for Formula 1 fans to follow the sport, connect with a community, and test their expert knowledge.",
+    "technologies": ["JavaScript", "HTML", "CSS"],
+    "github": "https://github.com/omarbalbaa/flappyBird",
+    "deployed": "",
+    "bgcolor": "#e47911",
+    "id": "5"
+  },
+  {
+    "title": "ChatMe",
+    "description": "Video conference web app",
+    "image": "/projectImages/02.png",
+    "image2": "/projectImages/04.png",
+    "technologies": ["Next.JS", "Tailwind CSS", "ZEGOCLOUD"],
+    "body": "This video conference applications allow user to create and join rooms to chat, voice call, and video call. This website is empowered by Zegocloud API and UIKits.",
+    "github": "https://github.com/omarbalbaa/chatme",
+    "bgcolor": "#6c4bf4",
+    "id": "3"
+  }
+]
