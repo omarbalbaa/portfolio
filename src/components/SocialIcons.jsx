@@ -21,7 +21,7 @@ const SocialIcons = () => {
 
   return (
     <div className="socialIcons" style={styles.socialIcons}>
-      <a className="icon" style={styles.icon} href="https://github.com/omarbalbaa">
+      <a className="icon" style={styles.icon} target="_blank" rel="noopener noreferrer" href="https://github.com/omarbalbaa">
         {/* GitHub Icon */}
         <motion.i
           initial={{ y: 100, opacity: 0 }}
@@ -32,7 +32,7 @@ const SocialIcons = () => {
           title="Omar Balbaa's GitHub Profile"
         ></motion.i>
       </a>
-      <a className="icon" style={styles.icon} href="https://www.linkedin.com/in/omarbalbaa/">
+      <a className="icon" style={styles.icon} target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/omarbalbaa/">
         {/* LinkedIn Icon */}
         <motion.i
           initial={{ y1: 100, opacity: 0 }}

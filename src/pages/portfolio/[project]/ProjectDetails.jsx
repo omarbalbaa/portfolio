@@ -84,10 +84,10 @@ const ProjectDetails = () => {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.5, delay: project.body.split("\n").length * 0.3 }}
               >
-                <a href={project.github}>
+                <a target="_blank" rel="noopener noreferrer" href={project.github}>
                   <Button name="View Code" />
                 </a>
-                <a href={project.deployed}>
+                <a target="_blank" rel="noopener noreferrer" href={project.deployed}>
                   <Button name="View Site" />
                 </a>
                 <Link to="/portfolio">
