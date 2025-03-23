@@ -43,7 +43,7 @@
     "image": "/projectImages/12.png",
     "image2": "/projectImages/13.png",
     "image3": "/projectImages/14.png",
-    "body": "P1 is a web application designed to be a hub for Formula 1 fans. It brings together news, standings, and an interactive card game in one platform.\nThe app features a responsive layout with animated, polished visuals to provide an immersive user experience. The news section stays up-to-date on the latest happenings in the F1 world.\nThe centerpiece is a card game that puts users' F1 knowledge to the test in a competitive, engaging format. Game mechanics reward expertise in drivers, teams, and racing trivia.\nBuilt using modern web development tools, this project shows skills in:\n➤ Creating visually appealing, animated interfaces\n➤ Integrating real-time data feeds and news\n➤ Developing interactive game mechanics with competitive elements\n➤ Providing an all-in-one web app for a niche audience\nOverall, P1 aims to establish an exciting online space for Formula 1 fans to follow the sport, connect with a community, and test their expert knowledge.",
+    "body": "A browser-based implementation of the classic Flappy Bird game built using HTML, CSS, and JavaScript. The game features simple mechanics where the player controls a bird that must navigate through gaps between pipes without colliding. The game includes collision detection, score tracking, and responsive controls for an engaging user experience.",
     "technologies": ["JavaScript", "HTML", "CSS"],
     "github": "https://github.com/omarbalbaa/flappyBird",
     "deployed": "",
