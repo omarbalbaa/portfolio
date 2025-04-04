@@ -13,6 +13,19 @@
     "id": "1"
   },
   {
+    "title": "Task Tracker",
+    "description": "Minimalist task tracker",
+    "image": "/projectImages/16.png",
+    "image2": "/projectImages/15.png",
+    "image3": "/projectImages/15.png",
+    "technologies": ["Next.js", "On-device site data", "Tailwind CSS", "shadcn/ui", "Motion"],
+    "body": "In this todo list web application I have depended on browser local storage to save user tasks per device. The website is fully responsive and built with Next.js, TailwindCSS, shadcn/ui, and Motion library which facilitates animation creation. \nThe website allows users to add and delete tasks, as well as mark them as completed. The tasks are stored in the browser's local storage, so they persist even after the page is refreshed.",
+    "github": "https://github.com/omarbalbaa/task-tracker",
+    "deployed": "https://yourfavtasktracker.vercel.app/",
+    "bgcolor": "#6c4bf4",
+    "id": "2"
+  },
+  {
     "title": "MovieLand",
     "description": "Movie library website",
     "image": "/projectImages/07.png",
@@ -22,8 +35,8 @@
     "body": "A front-end for a movie library website that allows users to browse movies. The website is fully responsive and built with React and styled using CSS. The website fetches data from an API and displays it in a user-friendly way.",
     "github": "https://github.com/omarbalbaa/movies-demo",
     "deployed": "https://omarbalbaa.github.io/movies-demo/",
-    "bgcolor": "#f85781",
-    "id": "4"
+    "bgcolor": "var(--hl-color)",
+    "id": "3"
   },
   {
     "title": "ECommerce",
@@ -32,10 +45,10 @@
     "image2": "/projectImages/11.png",
     "image3": "/projectImages/06.png",
     "body": "A full-stack project for an Ecommerce website that allows user to browse products, add them to cart, and recieve a confirmation email then checkout. The website is fully responsive. The frontend is built with Next.JS, TailwindCSS, and HyperUI. \nThe backend is built with Strapi which facilitates the adminstration process by offering a dashboard to manage products, orders, and users. It has cloudinary integrated for optimizing images. I used Resend to handle sending emails to customers.",
-    "technologies": ["Next.JS", "Strapi", "Tailwind CSS", "HyperUI"],
+    "technologies": ["Next.js", "Strapi", "Tailwind CSS", "HyperUI"],
     "github": "https://github.com/omarbalbaa/ecommerce",
-    "bgcolor": "var(--hl-color)",
-    "id": "1"
+    "bgcolor": "#f85781",
+    "id": "4"
   },
   {
     "title": "Flappy Bird",
@@ -55,10 +68,10 @@
     "description": "Video conference web app",
     "image": "/projectImages/02.png",
     "image2": "/projectImages/04.png",
-    "technologies": ["Next.JS", "Tailwind CSS", "ZEGOCLOUD"],
+    "technologies": ["Next.js", "Tailwind CSS", "ZEGOCLOUD"],
     "body": "This video conference applications allow user to create and join rooms to chat, voice call, and video call. This website is empowered by Zegocloud API and UIKits.",
     "github": "https://github.com/omarbalbaa/chatme",
-    "bgcolor": "#6c4bf4",
-    "id": "3"
+    "bgcolor": "#013448",
+    "id": "6"
   }
 ]
