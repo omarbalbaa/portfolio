@@ -26,6 +26,17 @@
     "id": "2"
   },
   {
+    "title": "Budget Buddy",
+    "description": "Expense tracker web app",
+    "image": "/projectImages/budgetBuddy1.png",
+    "image2": "/projectImages/Budgetbuddy2.svg",
+    "technologies": ["React", "Vite", "Expressjs", "Node.js", "MySQL", "Tailwind CSS"],
+    "body": "A full-stack Expense Tracker web application that allows users to track their expenses and income. The frontend is built with React and Vite, while the backend is built with Express.js. The application uses MySql for data storage. The application is fully responsive and has a user-friendly interface.",
+    "github": "https://github.com/omarbalbaa/BudgetBuddy",
+    "bgcolor": "#037C6A",
+    "id": "3"
+  },
+  {
     "title": "MovieLand",
     "description": "Movie library website",
     "image": "/projectImages/07.png",
@@ -36,7 +47,7 @@
     "github": "https://github.com/omarbalbaa/movies-demo",
     "deployed": "https://omarbalbaa.github.io/movies-demo/",
     "bgcolor": "var(--hl-color)",
-    "id": "3"
+    "id": "4"
   },
   {
     "title": "ECommerce",
@@ -48,7 +59,7 @@
     "technologies": ["Next.js", "Strapi", "Tailwind CSS", "HyperUI"],
     "github": "https://github.com/omarbalbaa/ecommerce",
     "bgcolor": "#f85781",
-    "id": "4"
+    "id": "5"
   },
   {
     "title": "Flappy Bird",
@@ -61,7 +72,7 @@
     "github": "https://github.com/omarbalbaa/flappyBird",
     "deployed": "",
     "bgcolor": "#e47911",
-    "id": "5"
+    "id": "6"
   },
   {
     "title": "ChatMe",
@@ -72,6 +83,6 @@
     "body": "This video conference applications allow user to create and join rooms to chat, voice call, and video call. This website is empowered by Zegocloud API and UIKits.",
     "github": "https://github.com/omarbalbaa/chatme",
     "bgcolor": "#013448",
-    "id": "6"
+    "id": "7"
   }
 ]
